@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Pyrogram sessions
+*.session
+*.session-journal
+
+# Database
+images.db
+images.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class

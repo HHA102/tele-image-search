@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+Pillow
+imagehash
+python-dotenv
+
